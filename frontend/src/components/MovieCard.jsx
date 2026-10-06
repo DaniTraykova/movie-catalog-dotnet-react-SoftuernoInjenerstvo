@@ -1,3 +1,5 @@
+import { ActorList } from './ActorList';
+
 export function MovieCard({ movie, onDelete, onEdit }) {
     return (
         <div
